@@ -12,7 +12,7 @@ Let's Go!
 Clone Repository
 ```bash
    git clone https://github.com/JohnPonciano/CodeLeap_Test.git
-   cd backend
+   cd CodeLeap_Test
 ```
 Config virtual env
 ```bash 
@@ -25,12 +25,13 @@ Install requirements
 ```
 Start Migration
 ```bash
+    cd backend
     python manage.py migrate
 ```
 
 Execute server
 ```bash
-    python3 manage.py runserver
+    python manage.py runserver
 ```
 ## API Reference
 ## Endpoints
