@@ -11,7 +11,7 @@ Let's Go!
 ## Installation
 Clone Repository
 ```bash
-   git clone 
+   git clone https://github.com/JohnPonciano/CodeLeap_Test.git
    cd backend
 ```
 Config virtual env
